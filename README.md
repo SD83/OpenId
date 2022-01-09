@@ -116,11 +116,11 @@ The authorization code flow has the following steps
 
 Following are the components of the URI
 
-    1. IDP URI for the Authorization endpoint.
-    2. client_id is the id for the client application.
-    3. redirect uri is the endpoint hosted by client where the IDP will send the authorization code.
-    4. scope provides the IDP with the information which details will sent back. In this case the openid and profile is requested which means that the user identifies and the profile related claims will be sent back.
-    5. response type value determines which flow will be used. For Authorization Code flow it is code. For implicit it is id_token token. For hybrid flow it is mixed up.
+1. IDP URI for the Authorization endpoint.
+2. client_id is the id for the client application.
+3. redirect uri is the endpoint hosted by client where the IDP will send the authorization code.
+4. scope provides the IDP with the information which details will sent back. In this case the openid and profile is requested which means that the user identifies and the profile related claims will be sent back.
+5. response type value determines which flow will be used. For Authorization Code flow it is code. For implicit it is id_token token. For hybrid flow it is mixed up.
 
 Steps in the flow
 
