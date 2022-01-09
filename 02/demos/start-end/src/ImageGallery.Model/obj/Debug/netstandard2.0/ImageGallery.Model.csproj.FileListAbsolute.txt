@@ -1,0 +1,9 @@
+C:\SD\PersonalGit\OpenId\02\demos\start-end\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.deps.json
+C:\SD\PersonalGit\OpenId\02\demos\start-end\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.dll
+C:\SD\PersonalGit\OpenId\02\demos\start-end\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.pdb
+C:\SD\PersonalGit\OpenId\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csproj.AssemblyReference.cache
+C:\SD\PersonalGit\OpenId\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfoInputs.cache
+C:\SD\PersonalGit\OpenId\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfo.cs
+C:\SD\PersonalGit\OpenId\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csproj.CoreCompileInputs.cache
+C:\SD\PersonalGit\OpenId\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.dll
+C:\SD\PersonalGit\OpenId\02\demos\start-end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.pdb
